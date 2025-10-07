@@ -18,15 +18,3 @@ To develop a Unix shell script that:
 1. Tracks all user login and logout events.
 2. Logs these events to a file.
 3. Sends an email alert when a specific user logs in (optional feature).
-
----
-
-## ⚙️ Technologies Used
-- **macOS Terminal / Linux Bash**
-- **Commands:** `who`, `date`, `awk`, `mail`
-- **Editor:** nano / vim
-- **Version Control:** Git & GitHub (for submission)
-
----
-
-## 🧩 Project Structure
